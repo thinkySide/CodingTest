@@ -3,6 +3,7 @@
 
 ## Programmers 입문
 - [분수의 덧셈](Programmers/입문/분수의%20덧셈.md)
+- [최빈값 구하기](Programmers/입문/최빈값%20구하기.md)
 
 ## Programmers 1단계
 - [자릿수 더하기](Programmers/1단계/자릿수%20더하기.md)
