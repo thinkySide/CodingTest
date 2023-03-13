@@ -1,4 +1,4 @@
-# 🧮 CodingTest
+# 🧑‍💻 CodingTest
 1일 1코테를 목표로 만든 돌아보면 좋을 코딩테스트 문제집입니다.
 
 ## Programmers 입문
