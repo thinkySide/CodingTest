@@ -15,6 +15,7 @@
 - [컨트롤 제트](Programmers/입문/컨트롤%20제트.md) (23.03.18)
 - [가까운 수](Programmers/입문/가까운%20수.md) (23.03.20)
 - [문자열 계산하기](Programmers/입문/문자열%20계산하기.md) (23.03.24)
+- [OX퀴즈](Programmers/입문/OX퀴즈.md) (23.03.25)
 
 ## Programmers 1단계
 - [자릿수 더하기](Programmers/1단계/자릿수%20더하기.md) (23.03.03)
