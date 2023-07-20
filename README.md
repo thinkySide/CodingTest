@@ -25,5 +25,9 @@
 - [치킨 쿠폰](Programmers/입문/치킨%20쿠폰.md) (23.07.13)
 - [다음에 올 숫자](Programmers/입문/다음에%20올%20숫자.md) (23.07.20)
 
+### 23.07.20 Programmers 입문 단계 완료!
+<img width="300" src="https://github.com/thinkySide/Connecting-the-Stars/assets/113565086/45cd5592-6f58-41bc-a4b1-4777ec048b5b">
+
+
 ## Programmers 1단계
 - [자릿수 더하기](Programmers/1단계/자릿수%20더하기.md) (23.03.03)
